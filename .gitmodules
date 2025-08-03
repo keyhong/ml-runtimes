@@ -1,0 +1,4 @@
+[submodule "cloudera-public-ml-runtimes/2025.01.3-b8"]
+	path = cloudera-public-ml-runtimes/2025.01.3-b8
+	url = https://github.com/cloudera/ml-runtimes.git
+	branch = 2025.01.3-b8
